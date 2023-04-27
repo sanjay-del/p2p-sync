@@ -1,0 +1,8 @@
+.vscode/
+.idea/
+_/
+.jest
+.env
+node_modules/
+npm-debug.log
+tsconfig.tsbuildinfo

@@ -1,0 +1,8 @@
+{
+    "files": [],
+    "references": [
+      {"path": "./packages/p2p/node-a"}
+    ],
+    "exclude": []
+  }
+  
